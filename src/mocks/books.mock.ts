@@ -1,16 +1,15 @@
 export const BOOKS = [
   {
     id: 1,
-    title: 'Node.js',
-    description: 'Des applications ultra rapides avec Node.js',
-    author: 'Mathieu Nebra',
+    title: 'First book',
+    description: 'This is the description for the first book',
+    author: 'Olususi Oluyemi',
   },
   {
     id: 2,
-    title: 'Logicomix',
-    description:
-      'Logicomix est un roman graphique sur la quête des fondements des mathématiques.',
-    author: 'Apóstolos Doxiádis',
+    title: 'Second book',
+    description: 'This is the description for the second book',
+    author: 'John Barry',
   },
   {
     id: 3,
